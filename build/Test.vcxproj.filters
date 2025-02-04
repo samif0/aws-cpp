@@ -13,4 +13,7 @@
       <UniqueIdentifier>{3C2E0E50-8751-3056-B40B-12C3F5711DBC}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\AppData\Local\Temp\TFSTemp\vctmp190440_425682.9491a2fd.gitignore" />
+  </ItemGroup>
 </Project>
