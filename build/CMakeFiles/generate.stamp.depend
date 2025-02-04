@@ -1,0 +1,125 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/SelectLibraryConfigurations.cmake
+C:/Users/samif/Projects/test/CMakeLists.txt
+C:/Users/samif/Projects/test/build/CMakeFiles/3.31.5/CMakeCCompiler.cmake
+C:/Users/samif/Projects/test/build/CMakeFiles/3.31.5/CMakeCXXCompiler.cmake
+C:/Users/samif/Projects/test/build/CMakeFiles/3.31.5/CMakeRCCompiler.cmake
+C:/Users/samif/Projects/test/build/CMakeFiles/3.31.5/CMakeSystem.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-auth/aws-c-auth-config.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-auth/aws-c-auth-targets-debug.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-auth/aws-c-auth-targets-release.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-auth/aws-c-auth-targets.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-cal/aws-c-cal-config.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-cal/aws-c-cal-targets-debug.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-cal/aws-c-cal-targets-release.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-cal/aws-c-cal-targets.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-common/aws-c-common-config.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-common/aws-c-common-targets-debug.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-common/aws-c-common-targets-release.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-common/aws-c-common-targets.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-compression/aws-c-compression-config.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-compression/aws-c-compression-targets-debug.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-compression/aws-c-compression-targets-release.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-compression/aws-c-compression-targets.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-event-stream/aws-c-event-stream-config.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-event-stream/aws-c-event-stream-targets-debug.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-event-stream/aws-c-event-stream-targets-release.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-event-stream/aws-c-event-stream-targets.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-http/aws-c-http-config.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-http/aws-c-http-targets-debug.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-http/aws-c-http-targets-release.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-http/aws-c-http-targets.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-io/aws-c-io-config.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-io/aws-c-io-targets-debug.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-io/aws-c-io-targets-release.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-io/aws-c-io-targets.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-mqtt/aws-c-mqtt-config.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-mqtt/aws-c-mqtt-targets-debug.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-mqtt/aws-c-mqtt-targets-release.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-mqtt/aws-c-mqtt-targets.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-s3/aws-c-s3-config.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-s3/aws-c-s3-targets-debug.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-s3/aws-c-s3-targets-release.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-s3/aws-c-s3-targets.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-sdkutils/aws-c-sdkutils-config.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-sdkutils/aws-c-sdkutils-targets-debug.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-sdkutils/aws-c-sdkutils-targets-release.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-c-sdkutils/aws-c-sdkutils-targets.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-checksums/aws-checksums-config.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-checksums/aws-checksums-targets-debug.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-checksums/aws-checksums-targets-release.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-checksums/aws-checksums-targets.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-core/aws-cpp-sdk-core-config-version.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-core/aws-cpp-sdk-core-config.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-core/aws-cpp-sdk-core-targets-debug.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-core/aws-cpp-sdk-core-targets-release.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-core/aws-cpp-sdk-core-targets.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-dynamodb/aws-cpp-sdk-dynamodb-config-version.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-dynamodb/aws-cpp-sdk-dynamodb-config.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-dynamodb/aws-cpp-sdk-dynamodb-targets-debug.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-dynamodb/aws-cpp-sdk-dynamodb-targets-release.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-dynamodb/aws-cpp-sdk-dynamodb-targets.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-kinesis/aws-cpp-sdk-kinesis-config-version.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-kinesis/aws-cpp-sdk-kinesis-config.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-kinesis/aws-cpp-sdk-kinesis-targets-debug.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-kinesis/aws-cpp-sdk-kinesis-targets-release.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-kinesis/aws-cpp-sdk-kinesis-targets.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-s3/aws-cpp-sdk-s3-config-version.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-s3/aws-cpp-sdk-s3-config.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-s3/aws-cpp-sdk-s3-targets-debug.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-s3/aws-cpp-sdk-s3-targets-release.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-cpp-sdk-s3/aws-cpp-sdk-s3-targets.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-crt-cpp/aws-crt-cpp-config-version.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-crt-cpp/aws-crt-cpp-config.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-crt-cpp/aws-crt-cpp-targets-debug.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-crt-cpp/aws-crt-cpp-targets-release.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/aws-crt-cpp/aws-crt-cpp-targets.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/awssdk/AWSSDKConfig.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/awssdk/AWSSDKConfigVersion.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/awssdk/compiler_settings.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/awssdk/platformDeps.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/awssdk/sdksCommon.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/fmt/fmt-config-version.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/fmt/fmt-config.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/fmt/fmt-targets-debug.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/fmt/fmt-targets-release.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/fmt/fmt-targets.cmake
+C:/Users/samif/Projects/test/build/vcpkg_installed/x64-windows/share/zlib/vcpkg-cmake-wrapper.cmake
+C:/Users/samif/Projects/test/vcpkg-configuration.json
+C:/Users/samif/Projects/test/vcpkg.json
+C:/Users/samif/vcpkg/scripts/buildsystems/vcpkg.cmake

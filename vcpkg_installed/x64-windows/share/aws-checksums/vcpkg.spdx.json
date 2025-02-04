@@ -1,0 +1,110 @@
+{
+  "$schema": "https://raw.githubusercontent.com/spdx/spdx-spec/v2.2.1/schemas/spdx-schema.json",
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "documentNamespace": "https://spdx.org/spdxdocs/aws-checksums-x64-windows-0.2.2-68f80305-9b32-44c0-a975-ca451414a586",
+  "name": "aws-checksums:x64-windows@0.2.2 807a5d75259fe596a2396e079f9d7cec054b88185eded1f19691f671fccafb9b",
+  "creationInfo": {
+    "creators": [
+      "Tool: vcpkg-2025-01-29-a75ad067f470c19f030361064e32a2585392bee2"
+    ],
+    "created": "2025-02-04T22:15:41Z"
+  },
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "GENERATES",
+      "relatedSpdxElement": "SPDXRef-binary"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-0"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-1"
+    },
+    {
+      "spdxElementId": "SPDXRef-binary",
+      "relationshipType": "GENERATED_FROM",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-0",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-1",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    }
+  ],
+  "packages": [
+    {
+      "name": "aws-checksums",
+      "SPDXID": "SPDXRef-port",
+      "versionInfo": "0.2.2",
+      "downloadLocation": "git+https://github.com/microsoft/vcpkg@f21a15b24a1361f3f0a6254b1328797ec831f596",
+      "homepage": "https://github.com/awslabs/aws-checksums",
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "description": "Cross-Platform HW accelerated CRC32c and CRC32 with fallback to efficient SW implementations.",
+      "comment": "This is the port (recipe) consumed by vcpkg."
+    },
+    {
+      "name": "aws-checksums:x64-windows",
+      "SPDXID": "SPDXRef-binary",
+      "versionInfo": "807a5d75259fe596a2396e079f9d7cec054b88185eded1f19691f671fccafb9b",
+      "downloadLocation": "NONE",
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "comment": "This is a binary package built by vcpkg."
+    },
+    {
+      "SPDXID": "SPDXRef-resource-0",
+      "name": "awslabs/aws-checksums",
+      "downloadLocation": "git+https://github.com/awslabs/aws-checksums@v0.2.2",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "56ea4946a40816e11ae8819d7d383f8c871c1b9ad5bdf410f61169e62263daf08a5eea4e81eb0f9bd8de2e3ff5479b1a61e6441f7281bda70029ae35abd4ae59"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": "./C:/Users/samif/AppData/Local/vcpkg/registries/git-trees/f21a15b24a1361f3f0a6254b1328797ec831f596/portfile.cmake",
+      "SPDXID": "SPDXRef-file-0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8fdf0a2553d5eed25bec820705b3a0dbae225953631b2739468f59f82e9ac5a8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/samif/AppData/Local/vcpkg/registries/git-trees/f21a15b24a1361f3f0a6254b1328797ec831f596/vcpkg.json",
+      "SPDXID": "SPDXRef-file-1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cd4d72dd7b47d8ed3bf3b1158f1b0e27e59cc6182e84f01f7836ed8fd74740da"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    }
+  ]
+}
